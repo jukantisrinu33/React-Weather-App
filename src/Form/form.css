@@ -1,0 +1,19 @@
+.search{
+    width: 300px;
+    border-radius: 5px 0px 0px 5px !important;
+}
+
+.button-search{
+    height: 55px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+
+#Heading{
+    text-align: center;
+}
+
+.error{
+    text-align: center;
+    color: red;
+}
